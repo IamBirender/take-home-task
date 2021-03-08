@@ -1,0 +1,3 @@
+pandas-gbq==0.14.0
+flask
+pyarrow==3.0.0
