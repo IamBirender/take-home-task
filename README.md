@@ -11,3 +11,5 @@ The payment application must support following features:
 ● This list should be updated once the required payment happens (using MakePayment)
 Important Points:
 - How the server accepts these commands is totally up to you (as a REST API or tcp commands or ..)
+
+please set the credentials 
